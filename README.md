@@ -66,5 +66,5 @@ Customer-Segmentation/
    pip install -r requirements.txt
 3. Jalankan notebook di Jupyter / VS Code.
 
-[Peningkatan Retensi dan Personalisasi Pemasaran Melalui Advanced Customer Segmentation .pdf](https://github.com/user-attachments/files/22509625/Peningkatan.Retensi.dan.Personalisasi.Pemasaran.Melalui.Advanced.Customer.Segmentation.pdf)
+[[Peningkatan Retensi dan Personalisasi Pemasaran Melalui Advanced Customer Segmentation .pdf](https://github.com/user-attachments/files/22509625/Peningkatan.Retensi.dan.Personalisasi.Pemasaran.Melalui.Advanced.Customer.Segmentation.pdf)](https://customer-segmentation.my.canva.site/)
 
