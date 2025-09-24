@@ -47,12 +47,13 @@ Proyek ini bertujuan untuk meningkatkan **retensi pelanggan** dan **personalisas
 ---
 
 ## 📂 Project Structure
+
+```bash
 Customer-Segmentation/
 │── 📜 Peningkatan Retensi dan Personalisasi Pemasaran.ipynb  
-│── 📜 requirements.txt                                        
-│── 📊 output/                                                 
+│── 📜 requirements.txt                                       
+│── 📊 output/                                                
 │── 📄 README.md                                              
-
 ---
 
 ## 🚀 Cara Menjalankan
