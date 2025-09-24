@@ -46,13 +46,12 @@ Proyek ini bertujuan untuk meningkatkan **retensi pelanggan** dan **personalisas
 
 ---
 
-## 📂 Struktur Proyek
-📁 Customer-Segmentation
-│── 📜 Peningkatan Retensi dan Personalisasi Pemasaran.ipynb # Notebook utama
-│── 📜 requirements.txt # Dependencies (opsional)
-│── 📊 output/ # Hasil visualisasi & laporan
-│── 📄 README.md # Dokumentasi proyek
-
+## 📂 Project Structure
+Customer-Segmentation/
+│── 📜 Peningkatan Retensi dan Personalisasi Pemasaran.ipynb  
+│── 📜 requirements.txt                                        
+│── 📊 output/                                                 
+│── 📄 README.md                                              
 
 ---
 
