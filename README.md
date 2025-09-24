@@ -66,5 +66,5 @@ Proyek ini bertujuan untuk meningkatkan **retensi pelanggan** dan **personalisas
    pip install -r requirements.txt
 3. Jalankan notebook di Jupyter / VS Code.
 
-[Situs Web Hitam dan Putih Fotografis Layanan Akuntansi.pdf](https://github.com/user-attachments/files/22507731/Situs.Web.Hitam.dan.Putih.Fotografis.Layanan.Akuntansi.pdf)
+[Peningkatan Retensi dan Personalisasi Pemasaran Melalui Advanced Customer Segmentation .pdf](https://github.com/user-attachments/files/22509625/Peningkatan.Retensi.dan.Personalisasi.Pemasaran.Melalui.Advanced.Customer.Segmentation.pdf)
 
